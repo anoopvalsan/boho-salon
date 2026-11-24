@@ -32,5 +32,5 @@ Photography from Unsplash (downloaded from the public image CDN):
 - Salon: https://images.unsplash.com/photo-1600948836101-f9ffda59d250
 - Beauty: https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9
 
-Google Fonts: Cormorant Garamond and DM Sans, served by Google Fonts. Logo and favicon are original SVG/CSS typography. Reference: https://ss.art4web.co/.
+Google Fonts: Cormorant Garamond and DM Sans, served by Google Fonts. Logo and favicon are original SVG/CSS typography.
 
