@@ -1,6 +1,6 @@
 # BOHO — Hair & Beauty Atelier
 
-A responsive salon website inspired by the editorial composition, beauty imagery, rose palette, and expressive typography of https://ss.art4web.co/. Original implementation and BOHO identity; no source code or images copied from the reference.
+A responsive salon website inspired by the editorial composition, beauty imagery, rose palette. Original implementation and BOHO identity; no source code or images copied from the reference.
 
 ## Run locally
 
